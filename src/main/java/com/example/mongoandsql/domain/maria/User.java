@@ -19,6 +19,6 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long seq;
-//abcasdf
+//abcasdfbasdfasdfasdfasdfasdfas
     private String name;
 }
